@@ -3,7 +3,7 @@ table-extractor
 :Authors: 
     Bruno Cesar Pimenta Fernandes <brunocpf@dcc.ufmg.br>
 :Version: 1.0
-Interface para extrair uma tabela .csv de um documento PDF usando coordenadas absolutas.
+Ferramenta para extrair uma tabela .csv de um documento PDF usando coordenadas absolutas.
 
 Instruções
 ----------------------------------
